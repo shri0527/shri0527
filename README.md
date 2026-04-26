@@ -12,8 +12,8 @@ I am a **Computer Science** student at the **University of Illinois Chicago** wi
 
 ### 📂 Featured Projects
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
+| Project Name | Description |
+| :--- | :--- |
 | **[Corporate Ladder](https://github.com/shri0527/spark-hacks-2026)** | This is an interactive game showcasing the effects of AI integration in the workplace. |
 | **[Secret Number Guesser](https://github.com/shri0527/ai110-module1show-gameglitchinvestigator-starter)** | This game allows to guessa number with ranging difficulty and gives you hints based of your guesses |
 | **[PawPal+](https://github.com/shri0527/ai110-module2show-pawpal-starter)** | This is scheduler that allows you to put in your timings to give you a perfect schedule that fits your needs |
