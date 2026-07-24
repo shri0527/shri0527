@@ -5,8 +5,8 @@ I am a **Computer Science** student at the **University of Illinois Chicago** wi
 
 - 🤖 **Currently:** AI/ML Fellow at **Cornell Tech** (Break Through Tech AI).
 - ⚙️ **Previously:** OS Development Intern at **UIC COE**, where I built scheduling systems in Go.
-- 🏛️ **Leadership:** Treasurer for **Women in Computer Science (WiCS)** at UIC.
-- 🎯 **Looking for:** Summer 2026 Software Engineering internships or research opportunities.
+- 🏛️ **Leadership:** Previous Treasurer for **Women in Computer Science (WiCS)** at UIC. Incoming Mentorship Chair.
+- 🎯 **Looking for:** Software Engineering / ML internships.
 
 ---
 
